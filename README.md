@@ -16,9 +16,13 @@ The [Certinia Community](https://erp.force.com/community/login) is the place to 
 
 ### Technical Articles
 
-[Using the Financial Report Builder Message Channel](using-the-financial-report-builder-message-channel/)
+{% content-ref url="using-the-financial-report-builder-message-channel.md" %}
+[using-the-financial-report-builder-message-channel.md](using-the-financial-report-builder-message-channel.md)
+{% endcontent-ref %}
 
-[Create Project from Template API - Opportunity Product Automation](create-project-from-template-api-opportunity-product/)
+{% content-ref url="create-project-from-template-api-custom-objects.md" %}
+[create-project-from-template-api-custom-objects.md](create-project-from-template-api-custom-objects.md)
+{% endcontent-ref %}
 
 [Create Project from Template API - Global Action Button](create-project-from-template-api-global-action-button/)
 
