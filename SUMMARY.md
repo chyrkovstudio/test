@@ -1,6 +1,6 @@
 # Table of contents
 
-* [index](README.md)
+* [Certinia for Developers](README.md)
 * [Direct Transaction API](accounting-direct-transaction-api.md)
 * [accounting-payments-plus-api](accounting-payments-plus-api.md)
 * [Create Project from Template API - Working with Custom Objects](create-project-from-template-api-custom-objects.md)
