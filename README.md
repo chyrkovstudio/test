@@ -16,16 +16,16 @@ The [Certinia Community](https://erp.force.com/community/login) is the place to 
 
 ### Technical Articles
 
-{% content-ref url="create-project-from-template-api-custom-objects.md" %}
-[create-project-from-template-api-custom-objects.md](create-project-from-template-api-custom-objects.md)
+{% content-ref url="technical-articles/create-project-from-template-api-custom-objects.md" %}
+[create-project-from-template-api-custom-objects.md](technical-articles/create-project-from-template-api-custom-objects.md)
 {% endcontent-ref %}
 
-{% content-ref url="create-project-from-template-api-global-action-button.md" %}
-[create-project-from-template-api-global-action-button.md](create-project-from-template-api-global-action-button.md)
+{% content-ref url="technical-articles/create-project-from-template-api-global-action-button.md" %}
+[create-project-from-template-api-global-action-button.md](technical-articles/create-project-from-template-api-global-action-button.md)
 {% endcontent-ref %}
 
-{% content-ref url="using-the-financial-report-builder-message-channel.md" %}
-[using-the-financial-report-builder-message-channel.md](using-the-financial-report-builder-message-channel.md)
+{% content-ref url="technical-articles/using-the-financial-report-builder-message-channel.md" %}
+[using-the-financial-report-builder-message-channel.md](technical-articles/using-the-financial-report-builder-message-channel.md)
 {% endcontent-ref %}
 
 ***
