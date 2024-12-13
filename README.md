@@ -24,19 +24,9 @@ The [Certinia Community](https://erp.force.com/community/login) is the place to 
 [create-project-from-template-api-custom-objects.md](create-project-from-template-api-custom-objects.md)
 {% endcontent-ref %}
 
-[Create Project from Template API - Global Action Button](create-project-from-template-api-global-action-button/)
-
-[Create Project from Template API - Working with Custom Objects](create-project-from-template-api-custom-objects/)
-
-[Version Service API - Versioning on Milestone Status](version-service-api-milestone-status/)
-
-[Version Service API - Scheduled Versioning](version-service-api-scheduled-versioning/)
-
-[Accounting Direct Transaction API](accounting-direct-transaction-api/)
-
-[Accounting Payments Plus API](accounting-payments-plus-api/)
-
-[Pluggable Triggers](pluggable-triggers/)
+{% content-ref url="create-project-from-template-api-global-action-button.md" %}
+[create-project-from-template-api-global-action-button.md](create-project-from-template-api-global-action-button.md)
+{% endcontent-ref %}
 
 ***
 
