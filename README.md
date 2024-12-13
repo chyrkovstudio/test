@@ -1,5 +1,10 @@
 ---
+cover: .gitbook/assets/image.jpg
+coverY: 88
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
@@ -12,7 +17,7 @@ layout:
     visible: true
 ---
 
-# Certinia for Developers
+# Welcome to Certinia for Developers
 
 ## Certinia Product Resources
 
