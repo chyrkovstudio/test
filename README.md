@@ -1,11 +1,4 @@
----
-cover: .gitbook/assets/Certinia_homepage_stars-cropped.webp
-coverY: 0
----
-
 # Certinia for Developers
-
-<div align="left"><figure><img src=".gitbook/assets/certinia-logo-1.svg" alt=""><figcaption></figcaption></figure></div>
 
 ## Certinia Product Resources
 
